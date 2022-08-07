@@ -1,2 +1,2 @@
 # testRepo
-Test repo to learn git
+This is my first repository on GitHub
